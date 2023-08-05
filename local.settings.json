@@ -1,7 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "",
+    "AzureWebJobsStorage": "ursrueggstorage",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
   }
 }
